@@ -1,0 +1,7 @@
+{
+  "popup": true,
+  "title": "Join Telegram",
+  "message": "Hamare Telegram channel join karo",
+  "button": "Join Now",
+  "link": "https://t.me/yourchannel"
+}
